@@ -1,2 +1,2 @@
 # pytorch_short_basic_tutorial
-I used the codes in the tutorial as a refreshment to my pytorch knowledge.
+I used these notebooks in the repo as a refreshment to my pytorch knowledge.
